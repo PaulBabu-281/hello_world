@@ -3,6 +3,7 @@ void main()
 {
   
         printf(" Hello world!\n Hello git");
-        printf("\n Welcome to KOZHIKODE")
+        printf("\n Welcome to KOZHIKODE");
+        printf("Thank You");
     
 }
